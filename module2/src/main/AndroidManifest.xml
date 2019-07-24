@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.acorn.module2">
+    <application android:theme="@style/AppTheme">
+        <activity android:name=".Module2MainActivity"/>
+        <activity android:name=".TestActivity"/>
+        <activity android:name=".TestKotlinActivity"/>
+    </application>
+</manifest>
